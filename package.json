@@ -1,0 +1,26 @@
+{
+  "name": "boat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saigeie/Boat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saigeie/Boat/issues"
+  },
+  "homepage": "https://github.com/Saigeie/Boat#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "glob": "^7.2.0",
+    "mongoose": "^6.2.4",
+    "node-fetch": "^3.2.1"
+  }
+}
